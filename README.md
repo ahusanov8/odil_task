@@ -20,8 +20,8 @@ Please write a test plan with at least 15 items, each consisting of a test descr
 #### Assigments 
 Complete the algorithms discussed below. You can write these in whichever language you feel most comfortable with. Each implementation should have enough unit tests to cover all cases.
 
-a. Write an implementation of Bubble Sort.
-b. Write an implementation of an alphanumeric sort. In this case, we should sort numbers first, followed by lowercase letters, uppercase letters and then all other characters. The special case here is that if any two numerical characters are next to each other, then they will be treated as one numeric value. The following example has a sample input with the expected output.
+* a. Write an implementation of Bubble Sort.
+* b. Write an implementation of an alphanumeric sort. In this case, we should sort numbers first, followed by lowercase letters, uppercase letters and then all other characters. The special case here is that if any two numerical characters are next to each other, then they will be treated as one numeric value. The following example has a sample input with the expected output.
 Example: Input -> ‘A11a4’ Output -> ‘411aA’
 
 ---
